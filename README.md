@@ -27,9 +27,9 @@ Predict on test data, plot actual vs. predicted prices.
 
 ## PROGRAM
 
-### Name: ASWINTH T
+### Name: SANJAY G
 
-### Register Number: 212222230015
+### Register Number: 212222230131
 
 ```python
 import numpy as np
